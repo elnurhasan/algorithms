@@ -49,3 +49,30 @@
 - [ ] C++
 - [ ] Golang
 - [ ] Javascript
+
+## Graph search
+### Breadth-first search (BFS)
+- [ ] python
+- [ ] C++
+- [ ] Golang
+- [ ] Javascript
+### Depth-first search, (DFS)
+- [ ] python
+- [ ] C++
+- [ ] Golang
+- [ ] Javascript
+### Bellman–Ford algorithm
+- [ ] python
+- [ ] C++
+- [ ] Golang
+- [ ] Javascript
+### Dijkstra's algorithm
+- [ ] python
+- [ ] C++
+- [ ] Golang
+- [ ] Javascript
+### A star
+- [ ] python
+- [ ] C++
+- [ ] Golang
+- [ ] Javascript
