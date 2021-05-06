@@ -10,3 +10,8 @@
 - [ ] C++
 - [ ] Golang
 - [ ] Javascript
+### Insertion sort
+- [ ] python
+- [ ] C++
+- [ ] Golang
+- [ ] Javascript
