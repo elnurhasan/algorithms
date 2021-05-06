@@ -15,3 +15,18 @@
 - [ ] C++
 - [ ] Golang
 - [ ] Javascript
+### Heapsort
+- [ ] python
+- [ ] C++
+- [ ] Golang
+- [ ] Javascript
+### Merge sort
+- [ ] python
+- [ ] C++
+- [ ] Golang
+- [ ] Javascript
+### Quicksort
+- [ ] python
+- [ ] C++
+- [ ] Golang
+- [ ] Javascript
