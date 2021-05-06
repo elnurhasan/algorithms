@@ -37,3 +37,15 @@
 - [ ] C++
 - [ ] Golang
 - [ ] Javascript
+
+## Search in lists
+### Linear search
+- [ ] python
+- [ ] C++
+- [ ] Golang
+- [ ] Javascript
+### Binary search
+- [ ] python
+- [ ] C++
+- [ ] Golang
+- [ ] Javascript
